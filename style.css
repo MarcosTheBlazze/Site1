@@ -31,3 +31,19 @@
     color: #ff3946;
     border: 1px solid #ff3946;
 }
+
+.button-blue-muted{
+    color: #1f4387;
+    background-color: transparent;
+    border: 0px;
+    margin: 5px;
+}
+
+.button-blue-muted:hover{
+    text-decoration: underline;
+}
+
+#imagem-principal{
+    height: 500px;
+}
+
