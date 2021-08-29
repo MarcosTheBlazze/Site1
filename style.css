@@ -1,0 +1,33 @@
+.btn-grande {
+    padding: 6px 25px;
+}
+
+.btn-light {
+    color: #ff3946;
+    background-color: #fff;
+    box-shadow: 0px 2px 6px 0.3px rgba(0, 0, 0, 0.2);
+}
+
+.btn-light:hover {
+    color: #fff;
+    background-color: #ff3946;
+}
+
+.text-blue{
+    color: #007bff !important;
+}
+
+.button-red-rounded{
+    background-color: #ff3946;
+    color: #fff;
+    border-radius: 15px;
+    padding: 10px 30px;
+    margin: 10px;
+    border: none;
+}
+
+.button-red-rounded:hover{
+    background-color: #fff;
+    color: #ff3946;
+    border: 1px solid #ff3946;
+}
